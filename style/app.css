@@ -1,0 +1,62 @@
+#app{
+    width:980px;
+    margin:0 auto;
+}
+
+.image{
+    width:100%;
+}
+
+.imgc{
+    width:100%;
+    float: center;
+    margin:0 auto;
+}
+
+h3{
+    font-size: 15px;
+    text-align: center;
+}
+
+.img-svg{
+    float: left;
+    width:90px;
+}
+
+h5{
+    padding: 0px;
+    margin-top: 0px;
+
+}
+.btn{
+    display: inline-block;
+    padding: 2px 8px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 100;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    margin-right: 0;
+    
+}
+
+.btn-apply{
+background-color: #4FB4ED;
+font-weight: 200px;
+color:  #fff !important;
+float:right;
+}
+
+.tex{
+
+    float:right;
+    margin-top: 0;
+    padding: 0px;
+    text-align: right;
+
+}
+.map{
+    width: 100%;
+}
